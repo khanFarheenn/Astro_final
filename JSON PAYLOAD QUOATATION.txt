@@ -1,0 +1,124 @@
+myor ndrw tygu xuns
+JSON PAYLOAD QUOATATION
+
+{
+  "requestor": 1,
+  "base_metal_alloy": "something",
+  "alloy": "new",
+  "details": [
+    {
+      "test": 1,
+      "test_objects": [
+        {
+          "test_object": 1,
+          "test_object_quantity": 10,
+          "test_condition": 1,
+          "test_condition_value": 20,
+          "unit_dimension": 1,
+          "object_dimension": [
+            {
+              "unit": 1,
+              "dimension": 1,
+              "value": 4
+            },
+            {
+              "unit": 3,
+              "dimension": 2,
+              "value": 4
+            }
+          ],
+          "test_parameters": [
+            {
+              "test_parameter": 1,
+              "test_parameter_value": 900,
+              "unit_dimension": 2
+            },
+             {
+              "test_parameter": 2,
+              "test_parameter_value": 200,
+              "unit_dimension": 1
+            }
+          ]
+        },
+         {
+          "test_object": 2,
+          "test_object_quantity": 3,
+          "test_condition": 2,
+          "test_condition_value": 10,
+          "unit_dimension": 2,
+          "object_dimension": [
+            {
+              "unit": 3,
+              "dimension": 2,
+              "value": 4
+            }
+          ],
+          "test_parameters": [
+            {
+              "test_parameter": 1,
+              "test_parameter_value": 900,
+              "unit_dimension": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "test": 2,
+      "test_objects": [
+        {
+          "test_object": 1,
+          "test_object_quantity": 10,
+          "test_condition": 1,
+          "test_condition_value": 20,
+          "unit_dimension": 1,
+          "object_dimension": [
+            {
+              "unit": 1,
+              "dimension": 1,
+              "value": 4
+            },
+            {
+              "unit": 3,
+              "dimension": 2,
+              "value": 4
+            }
+          ],
+          "test_parameters": [
+            {
+              "test_parameter": 1,
+              "test_parameter_value": 900,
+              "unit_dimension": 2
+            },
+             {
+              "test_parameter": 2,
+              "test_parameter_value": 200,
+              "unit_dimension": 1
+            }
+          ]
+        },
+         {
+          "test_object": 2,
+          "test_object_quantity": 3,
+          "test_condition": 2,
+          "test_condition_value": 10,
+          "unit_dimension": 2,
+          "object_dimension": [
+            {
+              "unit": 3,
+              "dimension": 2,
+              "value": 4
+            }
+          ],
+          "test_parameters": [
+            {
+              "test_parameter": 1,
+              "test_parameter_value": 900,
+              "unit_dimension": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
